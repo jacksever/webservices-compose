@@ -1,0 +1,46 @@
+﻿@model IEnumerable<webservice.Entities.User>
+
+@{
+    ViewData["Title"] = "Users";
+}
+
+<h1>@ViewData["Title"]</h1>
+<hr/>
+<table class="table">
+    <thead>
+    <tr>
+        <th>
+            <label asp-for="@Model.First().FirstName"></label>
+        </th>
+        <th>
+            <label asp-for="@Model.First().LastName"></label>
+        </th>
+        <th>
+            <label asp-for="@Model.First().BirthDay"></label>
+        </th>
+        <th>
+            <label asp-for="@Model.First().City"></label>
+        </th>
+        <th></th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @item.FirstName
+            </td>
+            <td>
+                @item.LastName
+            </td>
+            <td>
+                @item.BirthDay.ToString("dd.MM.yyyy")
+            </td>
+            <td>
+                @item.City
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>

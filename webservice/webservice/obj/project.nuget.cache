@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pe2crneL1EpV/R0LMUZSj6Dv+oSw07qSqvLmhXbJM5s4JcuV4ithRbRWiavLkUsc3T/9adF4GizhoVA3D5f7Zw==",
+  "success": true,
+  "projectFilePath": "D:\\Virtual Machine\\Exam\\webservice\\webservice\\webservice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alexander Gorodnikov\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

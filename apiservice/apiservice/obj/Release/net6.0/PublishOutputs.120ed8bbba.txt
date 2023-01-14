@@ -1,0 +1,11 @@
+D:\Virtual Machine\Exam\apiservice\apiservice\bin\Release\net6.0\publish\apiservice.exe
+D:\Virtual Machine\Exam\apiservice\apiservice\bin\Release\net6.0\publish\appsettings.Development.json
+D:\Virtual Machine\Exam\apiservice\apiservice\bin\Release\net6.0\publish\appsettings.json
+D:\Virtual Machine\Exam\apiservice\apiservice\bin\Release\net6.0\publish\apiservice.dll
+D:\Virtual Machine\Exam\apiservice\apiservice\bin\Release\net6.0\publish\apiservice.deps.json
+D:\Virtual Machine\Exam\apiservice\apiservice\bin\Release\net6.0\publish\apiservice.runtimeconfig.json
+D:\Virtual Machine\Exam\apiservice\apiservice\bin\Release\net6.0\publish\apiservice.pdb
+D:\Virtual Machine\Exam\apiservice\apiservice\bin\Release\net6.0\publish\Microsoft.OpenApi.dll
+D:\Virtual Machine\Exam\apiservice\apiservice\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\Virtual Machine\Exam\apiservice\apiservice\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Virtual Machine\Exam\apiservice\apiservice\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
